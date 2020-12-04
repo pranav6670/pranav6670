@@ -8,4 +8,4 @@
 [linkedin]: https://www.linkedin.com/in/pranavnatekar/
 
 ### Read my blogs here:
-[https://medium.com/@pranavnatekar](Medium)
+https://medium.com/@pranavnatekar
