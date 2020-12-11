@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Connect with me on : 
-[<img align="left" alt="img | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="img | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />][linkedin]
 
 <br />
 
