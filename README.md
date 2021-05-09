@@ -4,5 +4,6 @@
   <a href="https://pranav6670.github.io/#works"><img src='https://github.com/pavanjadhaw/pavanjadhaw/raw/master/projects.svg?sanitize=true' alt="Projects" title="Projects" height='55px'/></a>　
 </p>
 <p align="center">
-  Connect with me:   {Linkedin}[https://www.linkedin.com/in/pranavnatekar]
+<!--   [LinkedIn](https://www.linkedin.com/in/pranavnatekar) -->
+<!--   Connect with me: [ -->
 </p>
